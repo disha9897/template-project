@@ -1,1 +1,1 @@
-In this project we will create a Resource Server that will return a list of Articles from the GET Endpoints.
+It is a template project of spring boot
